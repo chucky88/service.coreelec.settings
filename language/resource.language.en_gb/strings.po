@@ -404,6 +404,13 @@ msgctxt "#912"
 msgid "Forum username to identify the connection"
 msgstr ""
 
+msgctxt "#914"
+msgid "Dump display EDID to edid-dmp.bin"
+msgstr ""
+
+msgctxt "#915"
+msgid "Use a previously dumped EDID"
+msgstr ""
 
 msgctxt "#32001"
 msgid "Services"
@@ -1316,6 +1323,13 @@ msgctxt "#32535"
 msgid "Smartchip WiFi Driver"
 msgstr ""
 
+msgctxt "#32539"
+msgid "Dump display EDID"
+msgstr ""
+
+msgctxt "#32540"
+msgid "Use dumped display EDID"
+msgstr ""
 
 msgctxt "#33510"
 msgid "Warning!"
